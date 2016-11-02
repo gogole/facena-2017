@@ -14,24 +14,39 @@
   <body ng-app="starter">
 
     <ion-pane>
-      
+
         <ion-header-bar class="bar-stable bar-assertive">
           <a href="../index.html" class="button  ion-ios-home"></a>
           <div class="h1 title">Materias Correlativas</div>
           <a href="informacion.html" class="button  ion-information-circled"></a>
         </ion-header-bar>
-      <ion-content class="padding ">
-      <div class="list">
 
-        <div class="item item-divider item-input-inset">
-          <label class="item-input-wrapper">
-            <i class="icon ion-search placeholder-icon"></i>
-            <input type="search"  ng-model="query">
-          </label>
-        </div>
+        <ion-content class="padding ">
+    <div class="list">
 
+      <div class="item item-divider item-input-inset">
+        <label class="item-input-wrapper">
+          <i class="icon ion-search placeholder-icon"></i>
+          <input type="search"  ng-model="query">
+        </label>
+      </div>
+
+      <ion-list class="item item-thumbnail" ng-controller="MesasCtrl">
+          <ion-item ng-repeat="item in materias | filter: query" >
+            <h2>{{item.nombre}}</h2>
+            <h3>Cursar:</h3>
+            <p>
+              {{item.cursar}}
+            </p>
+            <h3>Rendir:</h3>
+            <p>
+              {{item.rendir}}
+            </p>
+
+          </ion-item>
+      </ion-list>
     </div>
-      </ion-content>
+    </ion-content>
 
       <div class=" bar bar-footer bar-dark tabs tabs-striped tabs-icon-left">
           <a class="tab-item" href="mesas.html">

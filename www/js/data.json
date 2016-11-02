@@ -3,6 +3,8 @@
     {
       "nombre": "Algoritmos y Estructuras de Datos I",
       "anio": "Primero",
+      "cursar":"Ninguna",
+      "rendir":"Ninguna",
       "octava_mesa": "12-oct",
       "novena_mesa": "23-nov",
       "decima_mesa": "21-dic"
@@ -10,6 +12,8 @@
     {
       "nombre": "Algebra",
       "anio": "Primero",
+      "cursar":"Ninguna",
+      "rendir":"Ninguna",
       "octava_mesa": "11-Oct",
       "novena_mesa": "22-Nov",
       "decima_mesa": "20-Dic"
@@ -18,6 +22,8 @@
     {
       "nombre": "Logica y Matematica Computacional",
       "anio": "Primero",
+      "cursar":"Ninguna",
+      "rendir":"A: Álgebra",
       "octava_mesa": "13-Oct",
       "novena_mesa": "24-Nov",
       "decima_mesa": "22-Dic"
@@ -26,6 +32,8 @@
     {
       "nombre": "Algoritmos y Estructuras de Datos II",
       "anio": "Primero",
+      "cursar":"R:AEDI",
+      "rendir":"A:AEDI",
       "octava_mesa": "03-Nov",
       "novena_mesa": "24-Nov",
       "decima_mesa": "22-Dic"
@@ -33,6 +41,8 @@
     {
       "nombre": "Sistemas y Organizaciones",
       "anio": "Primero",
+      "cursar":"Ninguna",
+      "rendir":"Ninguna",
       "octava_mesa": "11-Oct",
       "novena_mesa": "22-Nov",
       "decima_mesa": "20-Dic"
@@ -40,6 +50,8 @@
     {
       "nombre": "Paradigmas Y Lenguajes",
       "anio": "Segundo",
+      "cursar":"R:AEDII, A:AEDI",
+      "rendir":"A:AEDII",
       "octava_mesa": "28-oct",
       "novena_mesa": "25-nov",
       "decima_mesa": "23-dic"
@@ -47,6 +59,8 @@
     {
       "nombre": "Calculo Diferencial e Integral",
       "anio": "Segundo",
+      "cursar":"R:Lógica y M.C, A:Álgebra",
+      "rendir":"A:Álgebra - Lógica y M.C",
       "octava_mesa": "14-oct",
       "novena_mesa": "25-nov",
       "decima_mesa": "23-dic"
@@ -54,6 +68,8 @@
     {
       "nombre": "Arquitectura y Organización de Computadoras",
       "anio": "Segundo",
+      "cursar":"R:Lógica y M.C, A:AEDI",
+      "rendir":"A:Lógica M.C",
       "octava_mesa": "27-Oct",
       "novena_mesa": "24-Nov",
       "decima_mesa": "22-Dic"
@@ -61,6 +77,8 @@
     {
       "nombre": "Sistemas Operativos",
       "anio": "Segundo",
+      "cursar":"R:Arquitectura y O.C, A:AEDII",
+      "rendir":"A:AEDII - Arquitectura y O.C",
       "octava_mesa": "19-oct",
       "novena_mesa": "23-nov",
       "decima_mesa": "21-dic"
@@ -68,6 +86,8 @@
     {
       "nombre": "Programación Orientada a Objetos",
       "anio": "Segundo",
+      "cursar":"R:Paradigmas y L, A:AEDII",
+      "rendir":"A:AEDII - Paradigmas y L",
       "octava_mesa": "28-oct",
       "novena_mesa": "25-nov",
       "decima_mesa": "23-dic"
@@ -75,6 +95,8 @@
     {
       "nombre": "Admin. y Gestión de Organizaciones",
       "anio": "Segundo",
+      "cursar":"R:Sistemas y Org.",
+      "rendir":"A:Sistemas y Org.",
       "octava_mesa": "15-oct",
       "novena_mesa": "25-nov",
       "decima_mesa": "17-dic"
@@ -82,6 +104,8 @@
     {
       "nombre": "Taller de Programación I",
       "anio": "Tercero",
+      "cursar":"R:POO, A:Paradigmas y L.",
+      "rendir":"A:POO",
       "octava_mesa": "12-oct",
       "novena_mesa": "23-nov",
       "decima_mesa": "21-dic"
@@ -89,6 +113,8 @@
     {
       "nombre": "Comunicación de Datos",
       "anio": "Tercero",
+      "cursar":"R:Sistemas Op., A:Arquitectura y O.C",
+      "rendir":"A:Sistemas Op",
       "octava_mesa": "04-nov",
       "novena_mesa": "25-nov",
       "decima_mesa": "23-dic"
@@ -96,6 +122,8 @@
     {
       "nombre": "Ingenieria de Software I",
       "anio": "Tercero",
+      "cursar":"R:POO - Admin y G., A:Sistemas y Org",
+      "rendir":"A:POO - Admin y G.",
       "octava_mesa": "19-Oct",
       "novena_mesa": "23-Nov",
       "decima_mesa": "21-Dic"
@@ -103,6 +131,8 @@
     {
       "nombre": "Taller de Programación II",
       "anio": "Tercero",
+      "cursar":"R:Taller I - Ing I, A:POO - SO",
+      "rendir":"A:Taller I - Ing I",
       "octava_mesa": "24-oct",
       "novena_mesa": "21-nov",
       "decima_mesa": "19-dic"
@@ -110,6 +140,8 @@
     {
       "nombre": "Probabilidad y Estadísticas",
       "anio": "Tercero",
+      "cursar":"R:Cálculo Dif e I.",
+      "rendir":"A:Cálculo Dif e I.",
       "octava_mesa": "13-oct",
       "novena_mesa": "24-nov",
       "decima_mesa": "22-dic"
@@ -117,6 +149,8 @@
     {
       "nombre": "Base de Datos I",
       "anio": "Tercero",
+      "cursar":"R:POO, A:Arquitectura y Org C",
+      "rendir":"A:Ing I",
       "octava_mesa": "31-oct",
       "novena_mesa": "21-nov",
       "decima_mesa": "19-dic"
@@ -124,6 +158,8 @@
     {
       "nombre": "Inglés Técnico",
       "anio": "Extracurricular",
+      "cursar":"Ninguna",
+      "rendir":"Ninguna",
       "octava_mesa": "11-oct",
       "novena_mesa": "22-nov",
       "decima_mesa": "20-dic"
@@ -131,6 +167,8 @@
     {
       "nombre": "Ingenieria de Software II",
       "anio": "Cuarto",
+      "cursar":"R:Ing I, A:Admin y Gest.",
+      "rendir":"A:Ing I",
       "octava_mesa": "14-oct",
       "novena_mesa": "25-nov",
       "decima_mesa": "23-dic"
@@ -138,6 +176,8 @@
     {
       "nombre": "Economía Aplicada",
       "anio": "Cuarto",
+      "cursar":"R:Ing I, A:Admin y Gest.",
+      "rendir":"A:Ing I",
       "octava_mesa": "13-Oct",
       "novena_mesa": "24-Nov",
       "decima_mesa": "22-Dic"
@@ -145,6 +185,8 @@
     {
       "nombre": "Teoría de la Computación",
       "anio": "Cuarto",
+      "cursar":"R:Prob. y Estadi., A:Arq. y Org. C.",
+      "rendir":"A:Arqui. y O.C - Prob. y Estad.",
       "octava_mesa": "20-oct",
       "novena_mesa": "24-nov",
       "decima_mesa": "22-dic"
@@ -152,6 +194,8 @@
     {
       "nombre": "Redes de Datos",
       "anio": "Cuarto",
+      "cursar":"A:Comuni. de Datos",
+      "rendir":"A:Comuni. de Datos",
       "octava_mesa": "28-oct",
       "novena_mesa": "25-nov",
       "decima_mesa": "23-dic"
@@ -159,6 +203,8 @@
     {
       "nombre": "Base de Datos II",
       "anio": "Cuarto",
+      "cursar":"R:Base I, A:Ing I",
+      "rendir":"A:Base I",
       "octava_mesa": "13-oct",
       "novena_mesa": "24-nov",
       "decima_mesa": "22-dic"
@@ -166,6 +212,8 @@
     {
       "nombre": "Metodos Computacionales",
       "anio": "Cuarto",
+      "cursar":"R:Probab. y Estad., A:Cálculo Dif e I",
+      "rendir":"Prob. y Estad.",
       "octava_mesa": "20-oct",
       "novena_mesa": "24-nov",
       "decima_mesa": "22-dic"
