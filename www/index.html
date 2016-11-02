@@ -16,6 +16,7 @@
     <ion-pane>
       <ion-header-bar class="bar-stable bar-assertive">
         <h1 class="title">Calendario 2016</h1>
+        <button class="button button-clear ion-information-circled"></button>
       </ion-header-bar>
 
     <ion-content>
@@ -30,9 +31,16 @@
       </div>
     </ion-content>
 
-      <div class="bar bar-footer bar-assertive">
-        <div class="title">Footer</div>
+      <div class="bar bar-footer bar-dark">
+        <div class="button-bar">
+          <button class="button ion-android-calendar icon-left">Mesas</button>
+          <button class="button ion-link icon-left">S. Interés</button>
+          <button class="button ion-network icon-left">Correlativas</button>
+        </div>
       </div>
+      <ion-tabs>
+        <ion-tab icon="ion-android-calendar"></ion-tab>
+      </ion-tabs>
     </ion-pane>
   </body>
 </html>
