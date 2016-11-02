@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+    <link rel="manifest" href="../manifest.json">
+    <link href="../lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
+    <script src="../lib/ionic/js/ionic.bundle.js"></script>
+    <script src="../cordova.js"></script>
+    <script src="../js/app.js"></script>
+  </head>
+  <body ng-app="starter">
+
+    <ion-pane>
+      <ion-header-bar class="bar-stable bar-assertive">
+        <h1 class="title">Mesas Disponibles</h1>
+        <a href="../index.html" class="button  ion-ios-home"></a>
+        <a href="informacion.html" class="button  ion-information-circled"></a>
+      </ion-header-bar>
+
+      <ion-content class="padding ">
+  <div class="list">
+
+    <div class="item item-divider item-input-inset">
+      <label class="item-input-wrapper">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="search"  ng-model="query">
+      </label>
+    </div>
+
+    <ion-list class="item item-thumbnail" ng-controller="MesasCtrl">
+        <ion-item ng-repeat="item in materias | filter: query" >
+          <h2>{{item.nombre}} <br></h2>
+          <p>Año de la Materia: {{item.anio}}</p>
+          <h3>Turnos:</h3>
+          <p>{{item.octava_mesa}}/{{item.novena_mesa}}/{{item.decima_mesa}}</p>
+        </ion-item>
+    </ion-list>
+  </div>
+  </ion-content>
+
+      <div class=" bar bar-footer bar-dark tabs tabs-striped tabs-icon-left">
+          <a class="tab-item" href="#">
+            <i class="icon ion-android-calendar"></i>
+            Mesas
+          </a>
+          <a class="tab-item" href="interes.html">
+            <i class="icon ion-link"></i>
+            S. Interés
+          </a>
+          <a class="tab-item" href="correlativas.html">
+            <i class="icon ion-network"></i>
+            Correlativas
+          </a>
+      </div>
+    </ion-pane>
+  </body>
+</html>
