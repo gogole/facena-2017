@@ -28,4 +28,14 @@ angular.module('starter', ['ionic'])
   .success(function(data){
     $scope.materias = data.materias;
   });
+  $scope.toggleGroup = function(item) {
+    if ($scope.isGroupShown(item)) {
+      $scope.shownGroup = null;
+    } else {
+      $scope.shownGroup = item;
+    }
+  };
+  $scope.isGroupShown = function(item) {
+    return $scope.shownGroup === item;
+  };
 }])

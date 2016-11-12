@@ -10,6 +10,9 @@
     <script src="../lib/ionic/js/ionic.bundle.js"></script>
     <script src="../cordova.js"></script>
     <script src="../js/app.js"></script>
+    <script src="../js/script.js">
+
+    </script>
   </head>
   <body ng-app="starter">
 
@@ -20,8 +23,23 @@
           <div class="h1 title">Materias Correlativas</div>
           <a href="informacion.html" class="button  ion-information-circled"></a>
         </ion-header-bar>
+        <div class=" bar bar-footer bar-dark tabs tabs-striped tabs-icon-left">
+            <a class="tab-item" href="mesas.html">
+              <i class="icon ion-android-calendar"></i>
+              Mesas
+            </a>
+            <a class="tab-item" href="interes.html">
+              <i class="icon ion-link"></i>
+              S. Interés
+            </a>
+            <a class="tab-item">
+              <i class="icon ion-network"></i>
+              Correlativas
+            </a>
+        </div>
 
-        <ion-content class="padding ">
+        <ion-content class="padding " ng-controller="MesasCtrl">
+
     <div class="list">
 
       <div class="item item-divider item-input-inset">
@@ -31,37 +49,24 @@
         </label>
       </div>
 
-      <ion-list class="item item-thumbnail" ng-controller="MesasCtrl">
-          <ion-item ng-repeat="item in materias | filter: query" >
-            <h2>{{item.nombre}}</h2>
-            <h3>Cursar:</h3>
-            <p>
-              {{item.cursar}}
-            </p>
-            <h3>Rendir:</h3>
-            <p>
-              {{item.rendir}}
-            </p>
+            <div class="card" ng-repeat="item in materias | filter: query">
+              <ion-item class="item-stable"
+                        ng-click="toggleGroup(item)"
+                        ng-class="{active: isGroupShown(item)}">
+                  <i class="icon" ng-class="isGroupShown(item) "></i>
+                &nbsp;
+              {{item.nombre}}
+              </ion-item>
+              <ion-item class="item-accordion"
+                        ng-show="isGroupShown(item)">
+                <h3>Cursar:     {{item.cursar}}</h3><hr>
+                <h3>Rendir: {{item.rendir}}</h3>
+              </ion-item>
+            </div>
 
-          </ion-item>
-      </ion-list>
+
     </div>
     </ion-content>
-
-      <div class=" bar bar-footer bar-dark tabs tabs-striped tabs-icon-left">
-          <a class="tab-item" href="mesas.html">
-            <i class="icon ion-android-calendar"></i>
-            Mesas
-          </a>
-          <a class="tab-item" href="interes.html">
-            <i class="icon ion-link"></i>
-            S. Interés
-          </a>
-          <a class="tab-item">
-            <i class="icon ion-network"></i>
-            Correlativas
-          </a>
-      </div>
     </ion-pane>
   </body>
 </html>
