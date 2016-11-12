@@ -45,6 +45,7 @@ ion-item.item-stable.item.ng-binding:after {
 
 ion-item.item-stable.item.ng-binding.active:after {
     content: "\2796";
+    color: rgb(84, 144, 108);
 }
 
 div.panel {
