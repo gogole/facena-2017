@@ -20,7 +20,7 @@
 
     },
     {
-      "nombre": "Logica y Matematica Computacional",
+      "nombre": "Logica y Matematica Comput.",
       "anio": "Primero",
       "cursar":"Ninguna",
       "rendir":"A: Álgebra",
@@ -30,7 +30,7 @@
 
     },
     {
-      "nombre": "Algoritmos y Estructuras de Datos II",
+      "nombre": "Algoritmos y Estructuras de D.II",
       "anio": "Primero",
       "cursar":"R:AEDI",
       "rendir":"A:AEDI",
@@ -66,7 +66,7 @@
       "decima_mesa": "23-dic"
     },
     {
-      "nombre": "Arquitectura y Organización de Computadoras",
+      "nombre": "Arquitectura y O. de Computadoras",
       "anio": "Segundo",
       "cursar":"R:Lógica y M.C, A:AEDI",
       "rendir":"A:Lógica M.C",
@@ -93,7 +93,7 @@
       "decima_mesa": "23-dic"
     },
     {
-      "nombre": "Admin. y Gestión de Organizaciones",
+      "nombre": "Admin. y Gest. de Organizaciones",
       "anio": "Segundo",
       "cursar":"R:Sistemas y Org.",
       "rendir":"A:Sistemas y Org.",
