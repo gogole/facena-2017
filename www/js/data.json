@@ -3,6 +3,7 @@
     {
       "nombre": "Algoritmos y Estructuras de Datos I",
       "anio": "Primero",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Ninguna",
       "rendir":"Ninguna",
@@ -13,6 +14,7 @@
     {
       "nombre": "Algebra",
       "anio": "Primero",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Ninguna",
       "rendir":"Ninguna",
@@ -24,6 +26,7 @@
     {
       "nombre": "Logica y Matematica Comput.",
       "anio": "Primero",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Ninguna",
       "rendir":"Álgebra",
@@ -35,6 +38,7 @@
     {
       "nombre": "Algoritmos y E. de Datos II",
       "anio": "Primero",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Algoritmos y E. de Datos I",
       "cursar_aprobada":"Ninguna",
       "rendir":"Algoritmos y E. de Datos I",
@@ -45,6 +49,7 @@
     {
       "nombre": "Sistemas y Organizaciones",
       "anio": "Primero",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Ninguna",
       "rendir":"Ninguna",
@@ -55,6 +60,7 @@
     {
       "nombre": "Paradigmas Y Lenguajes",
       "anio": "Segundo",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Algoritmos y E. de Datos II",
       "cursar_aprobada":"Algoritmos y E. de Datos I",
       "rendir":"Algoritmos y E. de Datos II",
@@ -65,6 +71,7 @@
     {
       "nombre": "Calculo Diferencial e Integral",
       "anio": "Segundo",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Lógica y Matemática Comp.",
       "cursar_aprobada":"Álgebra",
       "rendir":"Álgebra - Lógica y Mat. Comp",
@@ -75,6 +82,7 @@
     {
       "nombre": "Arquitectura y O. de Computadoras",
       "anio": "Segundo",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Lógica y Matemática Comp.",
       "cursar_aprobada":"Algoritmos y E. de Datos II",
       "rendir":"Lógica y Matemática Comp.",
@@ -85,6 +93,7 @@
     {
       "nombre": "Sistemas Operativos",
       "anio": "Segundo",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Arquitectura y O.C",
       "cursar_aprobada":"Algoritmos y E. de Datos II",
       "rendir":"AEDII - Arquitectura y O.C",
@@ -95,6 +104,7 @@
     {
       "nombre": "Programación Orientada a Objetos",
       "anio": "Segundo",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Paradigmas y Lenguajes",
       "cursar_aprobada":"AEDII",
       "rendir":"AEDII - Paradigmas y L",
@@ -105,6 +115,7 @@
     {
       "nombre": "Admin. y Gest. de Organizaciones",
       "anio": "Segundo",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Sistemas y Organizaciones",
       "cursar_aprobada":"Ninguna",
       "rendir":"Sistemas y Organizaciones",
@@ -115,6 +126,7 @@
     {
       "nombre": "Taller de Programación I",
       "anio": "Tercero",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Programación O. Objetos",
       "cursar_aprobada":"Paradigmas y Lenguajes",
       "rendir":"Programación O. Objetos",
@@ -125,6 +137,7 @@
     {
       "nombre": "Comunicación de Datos",
       "anio": "Tercero",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Sistemas Operativos",
       "cursar_aprobada":"Arquitectura y O.C",
       "rendir":"Sistemas Operativos",
@@ -135,6 +148,7 @@
     {
       "nombre": "Ingenieria de Software I",
       "anio": "Tercero",
+      "cuatrimestre":"Primero",
       "cursar_regular":"POO - Admin y G.",
       "cursar_aprobada":"Sistemas y Organizaciones",
       "rendir":"POO - Admin y Gestión",
@@ -145,6 +159,7 @@
     {
       "nombre": "Taller de Programación II",
       "anio": "Tercero",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Taller I - Ingeniería I",
       "cursar_aprobada":"POO - Sistemas O.",
       "rendir":"Taller I - Ingeniería I",
@@ -155,6 +170,7 @@
     {
       "nombre": "Probabilidad y Estadísticas",
       "anio": "Tercero",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Cálculo Dif e Integral.",
       "cursar_aprobada":"Ninguna",
       "rendir":"Cálculo Dif e Integral",
@@ -165,6 +181,7 @@
     {
       "nombre": "Base de Datos I",
       "anio": "Tercero",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Programación O. Objetos",
       "cursar_aprobada":"Arquitectura y Org C",
       "rendir":"Ingeniería I",
@@ -175,6 +192,7 @@
     {
       "nombre": "Inglés Técnico",
       "anio": "Extracurricular",
+      "cuatrimestre":"",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Ninguna",
       "rendir":"Ninguna",
@@ -185,6 +203,7 @@
     {
       "nombre": "Ingenieria de Software II",
       "anio": "Cuarto",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Ingeniería I",
       "cursar_aprobada":"Admin y Gestión.",
       "rendir":"Ingeniería I",
@@ -195,6 +214,7 @@
     {
       "nombre": "Economía Aplicada",
       "anio": "Cuarto",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Ingeniería I",
       "cursar_aprobada":"Admin y Gestión.",
       "rendir":"Ingeniería I",
@@ -205,6 +225,7 @@
     {
       "nombre": "Teoría de la Computación",
       "anio": "Cuarto",
+      "cuatrimestre":"",
       "cursar_regular":"Prob. y Estadísticas.",
       "cursar_aprobada":"Arq. y Org. C.",
       "rendir":"Arqui. y O.C - Prob. y Estad.",
@@ -215,6 +236,7 @@
     {
       "nombre": "Redes de Datos",
       "anio": "Cuarto",
+      "cuatrimestre":"",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Comunicación de Datos",
       "rendir":"Comunicación de Datos",
@@ -225,6 +247,7 @@
     {
       "nombre": "Base de Datos II",
       "anio": "Cuarto",
+      "cuatrimestre":"",
       "cursar_regular":"Base de Datos I",
       "cursar_aprobada":"Ingeniería I",
       "rendir":"Base de Datos I",
@@ -235,6 +258,7 @@
     {
       "nombre": "Metodos Computacionales",
       "anio": "Cuarto",
+      "cuatrimestre":"",
       "cursar_regular":"Probab. y Estadísticas.",
       "cursar_aprobada":"Cálculo Dif e Integral",
       "rendir":"Prob. y Estadísticas.",
