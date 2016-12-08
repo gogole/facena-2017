@@ -5,7 +5,6 @@ div.item.item-text-wrap{
 div.h1.title{
   text-align: center;
 }
-
 ion-item.item-stable.item.ng-binding{
   text-align: center;
   background-color: rgb(11, 75, 94);
@@ -19,6 +18,10 @@ ion-item.item-stable.item.ng-binding{
 }
 .ion-item.item-stable.item.ng-binding:after {
   color:red;
+}
+h3{
+  color: rgb(182, 135, 15);
+  font-family:fantasy;
 }
 ion-item.item-stable.item.ng-binding {
     padding: 18px;

@@ -51,10 +51,11 @@
           </ion-item>
           <ion-item class="item-accordion"
                     ng-show="isGroupShown(item)">
-            <p>Año de la Materia: {{item.anio}}</p><hr>
-            <h3>Turnos:</h3>
-            <p>Primer Semestre:{{item.octava_mesa}}/{{item.novena_mesa}}/{{item.decima_mesa}}/{{item.octava_mesa}}/{{item.novena_mesa}}/{{item.decima_mesa}}</p>
-            <p>Segundo Semestre:{{item.octava_mesa}}/{{item.novena_mesa}}/{{item.decima_mesa}}/{{item.octava_mesa}}/{{item.novena_mesa}}/{{item.decima_mesa}}</p>
+            <h3>Año de la Materia:</h3> {{item.anio}}<hr>
+            <h3>Fechas:</h3>
+            {{item.octava_mesa}}--{{item.novena_mesa}}--{{item.decima_mesa}}--{{item.octava_mesa}}<br>
+            {{item.novena_mesa}}--{{item.decima_mesa}}--{{item.octava_mesa}}--{{item.novena_mesa}}<br>
+            {{item.decima_mesa}}--{{item.octava_mesa}}--{{item.novena_mesa}}--{{item.decima_mesa}}
           </ion-item>
         </div>
         </div>
