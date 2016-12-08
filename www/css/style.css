@@ -19,6 +19,9 @@ ion-item.item-stable.item.ng-binding{
 .ion-item.item-stable.item.ng-binding:after {
   color:red;
 }
+h2{
+  font-family:fantasy;
+}
 h3{
   color: rgb(182, 135, 15);
   font-family:fantasy;
