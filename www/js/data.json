@@ -225,7 +225,7 @@
     {
       "nombre": "Teoría de la Computación",
       "anio": "Cuarto",
-      "cuatrimestre":"",
+      "cuatrimestre":"Primero",
       "cursar_regular":"Prob. y Estadísticas.",
       "cursar_aprobada":"Arq. y Org. C.",
       "rendir":"Arqui. y O.C - Prob. y Estad.",
@@ -236,7 +236,7 @@
     {
       "nombre": "Redes de Datos",
       "anio": "Cuarto",
-      "cuatrimestre":"",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Comunicación de Datos",
       "rendir":"Comunicación de Datos",
@@ -247,7 +247,7 @@
     {
       "nombre": "Base de Datos II",
       "anio": "Cuarto",
-      "cuatrimestre":"",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Base de Datos I",
       "cursar_aprobada":"Ingeniería I",
       "rendir":"Base de Datos I",
@@ -258,7 +258,7 @@
     {
       "nombre": "Metodos Computacionales",
       "anio": "Cuarto",
-      "cuatrimestre":"",
+      "cuatrimestre":"Segundo",
       "cursar_regular":"Probab. y Estadísticas.",
       "cursar_aprobada":"Cálculo Dif e Integral",
       "rendir":"Prob. y Estadísticas.",
