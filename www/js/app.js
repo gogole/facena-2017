@@ -24,7 +24,7 @@ angular.module('starter', ['ionic'])
 })
 
 .controller('MesasCtrl', ['$scope', '$http', '$state', function($scope, $http, $state) {
-  $http.get('../js/data.json')
+   $http.get('http://mesasistemas.esy.es/js/data_sistemas.json')
   .success(function(data){
     $scope.materias = data.materias;
   });

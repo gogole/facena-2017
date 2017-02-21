@@ -7,6 +7,13 @@
       "cursar_regular":"Ninguna",
       "cursar_aprobada":"Ninguna",
       "rendir":"Ninguna",
+      "primera_mesa":"",
+      "segunda_mesa":"",
+      "tercera_mesa":"",
+      "cuarta_mesa":"",
+      "quinta_mesa":"",
+      "sexta_mesa":"",
+      "septima_mesa":"",
       "octava_mesa": "12-oct",
       "novena_mesa": "23-nov",
       "decima_mesa": "21-dic"
