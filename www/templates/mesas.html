@@ -52,10 +52,12 @@
           <ion-item class="item-accordion"
                     ng-show="isGroupShown(item)">
 
-            <h3>Fechas:</h3>
-            {{item.segunda_mesa}}--{{item.tercera_mesa}}--{{item.cuarta_mesa}}<hr>
-            {{item.quinta_mesa}}--{{item.sexta_mesa}}--{{item.septima_mesa}} <hr>
-            {{item.octava_mesa}}--{{item.novena_mesa}}--{{item.decima_mesa}}
+            <h3>Próxima Mesa: {{item.tercera_mesa}}</h3>
+            <p>Inicio de Inscripción: {{item.inicio_inscripcion}} // Fin de Inscripción: {{item.fin_inscripcion}}</p><hr>
+            <h3>Mesas Restantes:</h3>
+            <p>{{item.cuarta_mesa}}--{{item.quinta_mesa}}--{{item.sexta_mesa}}</p> <hr>
+            <p>{{item.septima_mesa}}--{{item.octava_mesa}}--{{item.novena_mesa}}</p> <hr>
+            <p>{{item.decima_mesa}}</p>
           </ion-item>
         </div>
         </div>
