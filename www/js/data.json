@@ -3,7 +3,7 @@
     {
       "codigo":"1",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Adm y Gestión de Organizaciones",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"06-May",
@@ -17,7 +17,7 @@
     {
       "codigo":"2",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Agrimensura Legal I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -31,7 +31,7 @@
     {
       "codigo":"3",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Agrimensura Legal II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -45,7 +45,7 @@
     {
       "codigo":"4",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Algebra",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -59,7 +59,7 @@
     {
       "codigo":"5",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Algebra I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -73,7 +73,7 @@
     {
       "codigo":"6",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Algebra II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -87,7 +87,7 @@
     {
       "codigo":"7",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Algebra Lineal y Geometría",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -101,7 +101,7 @@
     {
       "codigo":"8",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Algebra y Geometría Analítica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -115,7 +115,7 @@
     {
       "codigo":"9",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Algoritmos y Estructuras de Datos I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -129,7 +129,7 @@
     {
       "codigo":"10",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Algoritmos y Estructuras de Datos II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -143,7 +143,7 @@
     {
       "codigo":"11",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Analisis de Sistemas I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -157,7 +157,7 @@
     {
       "codigo":"12",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Analisis de Sistemas II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -171,7 +171,7 @@
     {
       "codigo":"13",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Analisis Matemático (Para Ingenieros)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -185,7 +185,7 @@
     {
       "codigo":"14",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Analisis Matemático (Para Agrimensura)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -199,7 +199,7 @@
     {
       "codigo":"15",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Analisis Matemático I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -213,7 +213,7 @@
     {
       "codigo":"16",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Analisis Matemático II",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -227,7 +227,7 @@
     {
       "codigo":"17",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Analisis Matemático III",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -241,7 +241,7 @@
     {
       "codigo":"18",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Analisis Matemático IV",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -255,7 +255,7 @@
     {
       "codigo":"19",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Analisis Numérico",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -269,7 +269,7 @@
     {
       "codigo":"20",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Analisis Real",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -283,7 +283,7 @@
     {
       "codigo":"21",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Anatomia Comparada de Cordados",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -297,7 +297,7 @@
     {
       "codigo":"22",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Antropologia Física y Cultural",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -311,7 +311,7 @@
     {
       "codigo":"23",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Aplicaciones de la Mecanica Analítica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -325,7 +325,7 @@
     {
       "codigo":"24",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Aplicaciones Térmicas de la Energía Solar",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"04-May",
@@ -339,7 +339,7 @@
     {
       "codigo":"25",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Arquitectura de Computadoras",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -353,7 +353,7 @@
     {
       "codigo":"26",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Arquitectura y Sistemas Operativos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -367,7 +367,7 @@
     {
       "codigo":"27",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Arquitectura y Org de Computadoras",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -381,7 +381,7 @@
     {
       "codigo":"28",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Astronomia",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -395,7 +395,7 @@
     {
       "codigo":"29",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Auditoria y Seguridad Informática",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -409,7 +409,7 @@
     {
       "codigo":"30",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Auditoria y Gestión de Proyectos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -423,7 +423,7 @@
     {
       "codigo":"31",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Bacteriologia Avanzada",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -437,7 +437,7 @@
     {
       "codigo":"32",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Bacteriologia y Micología Clínica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":" 02-May",
@@ -451,7 +451,7 @@
     {
       "codigo":"33",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Base de Datos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -465,7 +465,7 @@
     {
       "codigo":"34",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Base de Datos I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -479,7 +479,7 @@
     {
       "codigo":"35",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Base de Datos II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -493,7 +493,7 @@
     {
       "codigo":"36",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Bioestadística",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -507,7 +507,7 @@
     {
       "codigo":"37",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Bioinstrumentación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -521,7 +521,7 @@
     {
       "codigo":"38",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Biologia Molecular Aplicada",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -535,7 +535,7 @@
     {
       "codigo":"39",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Biologia Celular y Molecular ",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -549,7 +549,7 @@
     {
       "codigo":"40",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Biologia de los Antropodos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -563,7 +563,7 @@
     {
       "codigo":"41",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Biologia de los Cordados",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -577,7 +577,7 @@
     {
       "codigo":"42",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Biologia de los Invertebrados",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -591,7 +591,7 @@
     {
       "codigo":"43",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Biologia de los Parásitos",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -605,7 +605,7 @@
     {
       "codigo":"44",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Biologia General y Celular",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -619,7 +619,7 @@
     {
       "codigo":"45",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Bioquimica de los Alimentos",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -633,7 +633,7 @@
     {
       "codigo":"46",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Biotaxonomia de Briófitas y Pteridófitas",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -647,7 +647,7 @@
     {
       "codigo":"47",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Biotaxonomia de Espermatófitas",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -661,7 +661,7 @@
     {
       "codigo":"48",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Biotecnologia Microbiana",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -675,7 +675,7 @@
     {
       "codigo":"49",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Bromatologia y Nutrición",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -689,7 +689,7 @@
     {
       "codigo":"50",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Calculo Diferencial e Integral",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -703,7 +703,7 @@
     {
       "codigo":"51",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Calculo Diferencial e Integral I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -717,7 +717,7 @@
     {
       "codigo":"52",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Calculo Diferencial e Integral II",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -731,7 +731,7 @@
     {
       "codigo":"53",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Calculo Numérico",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -745,7 +745,7 @@
     {
       "codigo":"54",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Calculo y Compensación",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -759,7 +759,7 @@
     {
       "codigo":"55",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Calor y Termodinámica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -773,7 +773,7 @@
     {
       "codigo":"56",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Cartografía",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -787,7 +787,7 @@
     {
       "codigo":"57",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Catastro",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -801,7 +801,7 @@
     {
       "codigo":"58",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Centrales Eléctricas",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"06-May",
@@ -815,7 +815,7 @@
     {
       "codigo":"59",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Ciencia, Tecnología y Sociedad",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -829,7 +829,7 @@
     {
       "codigo":"60",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Circuitos Lógicos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -843,7 +843,7 @@
     {
       "codigo":"61",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Citogenética",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -857,7 +857,7 @@
     {
       "codigo":"62",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Climatología",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -871,7 +871,7 @@
     {
       "codigo":"63",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Competencias Lingüistico-Comunicativas",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -885,7 +885,7 @@
     {
       "codigo":"64",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Complementos de Álgebra Lineal",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -899,7 +899,7 @@
     {
       "codigo":"65",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Computación",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -913,7 +913,7 @@
     {
       "codigo":"66",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Comunicación de Datos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -927,7 +927,7 @@
     {
       "codigo":"67",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Conceptos Teóricos Básicos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -941,7 +941,7 @@
     {
       "codigo":"68",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Conocimiento de Idioma Inglés Técnico",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -955,7 +955,7 @@
     {
       "codigo":"69",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Determinación de Estructuras Orgánicas",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -969,7 +969,7 @@
     {
       "codigo":"70",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Dibujo",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -983,7 +983,7 @@
     {
       "codigo":"71",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Dibujo Topográfico y Cartográfico",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -997,7 +997,7 @@
     {
       "codigo":"72",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Didáctica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1011,7 +1011,7 @@
     {
       "codigo":"73",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Didáctica de la Química y Prac. de Resid.",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1025,7 +1025,7 @@
     {
       "codigo":"74",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Dinámica de Fluidos Geofísicos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -1039,7 +1039,7 @@
     {
       "codigo":"75",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Diseño de Biorreactores",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1053,7 +1053,7 @@
     {
       "codigo":"76",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Diseño de Líneas de Trans. y Est. Transf.",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -1067,7 +1067,7 @@
     {
       "codigo":"77",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Diseños de Reactores Homogéneos I",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"06-May",
@@ -1081,7 +1081,7 @@
     {
       "codigo":"78",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Diseños de Reactores Homogéneos II",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"06-May",
@@ -1095,7 +1095,7 @@
     {
       "codigo":"79",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Diseño y Administración de Datos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1109,7 +1109,7 @@
     {
       "codigo":"80",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Distribución de la Energía",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -1123,7 +1123,7 @@
     {
       "codigo":"81",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Diversidad Vegetal",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -1137,7 +1137,7 @@
     {
       "codigo":"82",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Ecología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -1151,7 +1151,7 @@
     {
       "codigo":"83",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Ecología Animal",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -1165,7 +1165,7 @@
     {
       "codigo":"84",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Ecología de Comunidades",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1179,7 +1179,7 @@
     {
       "codigo":"85",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Ecología de Poblaciones",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -1193,7 +1193,7 @@
     {
       "codigo":"86",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Ecología Vegetal",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1207,7 +1207,7 @@
     {
       "codigo":"87",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Ecología y Medio Ambiente",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1221,7 +1221,7 @@
     {
       "codigo":"88",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Economía Aplicada",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1235,7 +1235,7 @@
     {
       "codigo":"89",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Economía y Gestión Empresarial",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1249,7 +1249,7 @@
     {
       "codigo":"90",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Economía y Organización Industrial",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -1263,7 +1263,7 @@
     {
       "codigo":"91",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Ecotoxicología y Sanidad Lab. Ambiental",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -1277,7 +1277,7 @@
     {
       "codigo":"92",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Ecuaciones Diferenciales",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -1291,7 +1291,7 @@
     {
       "codigo":"93",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Ecuaciones Diferenciales en Derivadas Parciales",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -1305,7 +1305,7 @@
     {
       "codigo":"94",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Edafología",
       "tercera_mesa":"23-Mar",
       "octava_mesa": "11-May",
@@ -1319,7 +1319,7 @@
     {
       "codigo":"95",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Educación para la Salud y el Ambiente",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -1333,7 +1333,7 @@
     {
       "codigo":"96",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Elec. Magnetismo y Óptica",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1347,7 +1347,7 @@
     {
       "codigo":"97",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Elec. Magnetismo, Óptica y Sonido",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1361,7 +1361,7 @@
     {
       "codigo":"98",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Elec. Magnetismo y Calor",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -1375,7 +1375,7 @@
     {
       "codigo":"99",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Electricidad y Magnetismo",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1389,7 +1389,7 @@
     {
       "codigo":"100",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Electroanalítica",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1403,7 +1403,7 @@
     {
       "codigo":"101",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Electromagnetismo(Para Física)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1417,7 +1417,7 @@
     {
       "codigo":"102",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Electromagnetismo(Para Ingenieros)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -1431,7 +1431,7 @@
     {
       "codigo":"103",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Electrónica I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1445,7 +1445,7 @@
     {
       "codigo":"104",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Electrónica II",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1459,7 +1459,7 @@
     {
       "codigo":"105",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Electónica III",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1473,7 +1473,7 @@
     {
       "codigo":"106",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Electrónica Industrial",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1487,7 +1487,7 @@
     {
       "codigo":"107",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Electrotécnia I",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"06-May",
@@ -1501,7 +1501,7 @@
     {
       "codigo":"108",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Electrotécnia II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -1515,7 +1515,7 @@
     {
       "codigo":"109",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Elementos de Computación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1529,7 +1529,7 @@
     {
       "codigo":"110",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Elementos de Edificios",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1543,7 +1543,7 @@
     {
       "codigo":"111",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Elementos de la Teoría de Galois",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1557,7 +1557,7 @@
     {
       "codigo":"112",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Embriología Animal",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1571,7 +1571,7 @@
     {
       "codigo":"113",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Endocrinología y Monit. de Drogas Terap.",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1585,7 +1585,7 @@
     {
       "codigo":"114",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Entomología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1599,7 +1599,7 @@
     {
       "codigo":"115",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Epidemiología y Salud Pública",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -1613,7 +1613,7 @@
     {
       "codigo":"116",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Epistemología y Metodología de la Investigación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1627,7 +1627,7 @@
     {
       "codigo":"117",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Estadística Diferencial",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1641,7 +1641,7 @@
     {
       "codigo":"118",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Estadística Inferencial",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1655,7 +1655,7 @@
     {
       "codigo":"119",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Estadística y Análisis de Datos",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1669,7 +1669,7 @@
     {
       "codigo":"120",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Estructura de la Materia I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -1683,7 +1683,7 @@
     {
       "codigo":"121",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Estructura de la Materia II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -1697,7 +1697,7 @@
     {
       "codigo":"122",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Evaluación Económica de los Proyectos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1711,7 +1711,7 @@
     {
       "codigo":"123",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Ética Profesional",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1725,7 +1725,7 @@
     {
       "codigo":"124",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Farmacología",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-may",
@@ -1739,7 +1739,7 @@
     {
       "codigo":"125",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Fenomenos de Transportes",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-may",
@@ -1753,7 +1753,7 @@
     {
       "codigo":"126",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Ficología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -1767,7 +1767,7 @@
     {
       "codigo":"127",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Física (Mecánica)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -1781,7 +1781,7 @@
     {
       "codigo":"128",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Física (Para Agrimensores)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -1795,7 +1795,7 @@
     {
       "codigo":"129",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Física Atómica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1809,7 +1809,7 @@
     {
       "codigo":"130",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Física Computacional",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"06-May",
@@ -1823,7 +1823,7 @@
     {
       "codigo":"131",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Física del Estado Sólido",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1837,7 +1837,7 @@
     {
       "codigo":"132",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Física de Sólidos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -1851,7 +1851,7 @@
     {
       "codigo":"133",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Física Experimental I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1865,7 +1865,7 @@
     {
       "codigo":"134",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Física Experimental II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1879,7 +1879,7 @@
     {
       "codigo":"135",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Física General y Biológica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"09-May",
@@ -1893,7 +1893,7 @@
     {
       "codigo":"136",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Física Matemática I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1907,7 +1907,7 @@
     {
       "codigo":"137",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Física Matemática II",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"12-May",
@@ -1921,7 +1921,7 @@
     {
       "codigo":"138",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Fisiología Animal",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1935,7 +1935,7 @@
     {
       "codigo":"139",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Fisiología Animal(Prof. y Lic en Cs Biológicas)",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -1949,7 +1949,7 @@
     {
       "codigo":"140",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Fisiología Humana",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1963,7 +1963,7 @@
     {
       "codigo":"141",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Fisiología Vegetal",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -1977,7 +1977,7 @@
     {
       "codigo":"142",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Fisiopatología",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -1991,7 +1991,7 @@
     {
       "codigo":"143",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Fitopatología",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"13-May",
@@ -2005,7 +2005,7 @@
     {
       "codigo":"144",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Formulación y Evaluación de Proyectos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2019,7 +2019,7 @@
     {
       "codigo":"145",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Fotogrametría",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -2033,7 +2033,7 @@
     {
       "codigo":"146",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Fotointerpretación",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2047,7 +2047,7 @@
     {
       "codigo":"147",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Fotointerpretación y Teledetección",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2061,7 +2061,7 @@
     {
       "codigo":"148",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Funciones Reales",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2075,7 +2075,7 @@
     {
       "codigo":"149",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Fundamentos de Biotecnología",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2089,7 +2089,7 @@
     {
       "codigo":"150",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Fundamentos de Comunicaciones",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -2103,7 +2103,7 @@
     {
       "codigo":"151",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Genética",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2116,7 +2116,7 @@
     },{
       "codigo":"152",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Genética de Poblaciones",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2130,7 +2130,7 @@
     {
       "codigo":"153",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Genética Evolutiva",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2144,7 +2144,7 @@
     {
       "codigo":"154",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Genética Molecular",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2158,7 +2158,7 @@
     {
       "codigo":"155",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Genética y Biología Molecular",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2172,7 +2172,7 @@
     {
       "codigo":"156",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Geodesia",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2186,7 +2186,7 @@
     {
       "codigo":"157",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Geodesia Astronómica y Matemática",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2200,7 +2200,7 @@
     {
       "codigo":"158",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Geodesia Física y Global",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2214,7 +2214,7 @@
     {
       "codigo":"159",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Geografía Física y Geomorfología",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2228,7 +2228,7 @@
     {
       "codigo":"160",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Geología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -2242,7 +2242,7 @@
     {
       "codigo":"161",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Geología Histórica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -2256,7 +2256,7 @@
     {
       "codigo":"162",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Geometría Diferencial",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"13-May",
@@ -2270,7 +2270,7 @@
     {
       "codigo":"163",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Geometría Métrica y Trigonometría",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2284,7 +2284,7 @@
     {
       "codigo":"164",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Geomorfología",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2298,7 +2298,7 @@
     {
       "codigo":"165",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Gestión de Laboratorios",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -2312,7 +2312,7 @@
     {
       "codigo":"166",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Hematología Avanzada",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2326,7 +2326,7 @@
     {
       "codigo":"167",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Hematología Clínica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -2340,7 +2340,7 @@
     {
       "codigo":"168",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Herpetología",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2354,7 +2354,7 @@
     {
       "codigo":"169",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Histología Animal",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2368,7 +2368,7 @@
     {
       "codigo":"170",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Historia de la Matemática",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -2382,7 +2382,7 @@
     {
       "codigo":"171",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Información Rural y Agrología",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -2396,7 +2396,7 @@
     {
       "codigo":"172",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Informática",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2410,7 +2410,7 @@
     {
       "codigo":"173",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Ingeniería Clínica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"17-May",
@@ -2424,7 +2424,7 @@
     {
       "codigo":"174",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Ingeniería de Software I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -2438,7 +2438,7 @@
     {
       "codigo":"175",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Ingeniería de Software II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2452,7 +2452,7 @@
     {
       "codigo":"176",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Ingeniería Legal",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2466,7 +2466,7 @@
     {
       "codigo":"177",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Inglés",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2480,7 +2480,7 @@
     {
       "codigo":"178",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Inglés Técnico",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -2494,7 +2494,7 @@
     {
       "codigo":"179",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Inglés Técnico Informático",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -2508,7 +2508,7 @@
     {
       "codigo":"180",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Inmunología",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"13-May",
@@ -2522,7 +2522,7 @@
     {
       "codigo":"181",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Inmunología Clínica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -2536,7 +2536,7 @@
     {
       "codigo":"182",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Instalaciones Eléctricas I",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2550,7 +2550,7 @@
     {
       "codigo":"183",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Instalaciones Eléctricas II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2564,7 +2564,7 @@
     {
       "codigo":"184",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Instrumentación y Med Electrónicas",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2578,7 +2578,7 @@
     {
       "codigo":"185",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Inteligencia Artificial - Opt. I(Plan 2009)",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2592,7 +2592,7 @@
     {
       "codigo":"186",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Inteligencia Artificial - Opt. IV(Plan 1999)",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2606,7 +2606,7 @@
     {
       "codigo":"187",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Introd. a la Agrimensura y a la Ética",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -2620,7 +2620,7 @@
     {
       "codigo":"188",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Introducción a la Biología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -2634,7 +2634,7 @@
     {
       "codigo":"189",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Introducción a la Ingeniería en Agrimensura",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -2648,7 +2648,7 @@
     {
       "codigo":"190",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Introducción a la Topología Algebraica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"12-May",
@@ -2662,7 +2662,7 @@
     {
       "codigo":"191",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Introducción al Nucleo Sintesis en Astrofísica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -2676,7 +2676,7 @@
     {
       "codigo":"192",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Laboratorio de Calor y Termodinámica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -2690,7 +2690,7 @@
     {
       "codigo":"193",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Laboratorio de Elec. y Magnetismo",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2704,7 +2704,7 @@
     {
       "codigo":"194",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Laboratorio de Mecánica Clásica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -2718,7 +2718,7 @@
     {
       "codigo":"195",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Laboratorio de Óptica y Sonido",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2732,7 +2732,7 @@
     {
       "codigo":"196",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Laboratorio de Programación",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -2746,7 +2746,7 @@
     {
       "codigo":"197",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Levantamientos Geomorfológicos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -2760,7 +2760,7 @@
     {
       "codigo":"198",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Levantamientos Hidráulicos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -2774,7 +2774,7 @@
     {
       "codigo":"199",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Levantamientos Hidrográficos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -2788,7 +2788,7 @@
     {
       "codigo":"200",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Limnología",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -2802,7 +2802,7 @@
     {
       "codigo":"201",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Lógica y Matemática Computacional",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -2816,7 +2816,7 @@
     {
       "codigo":"202",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Manejo de Recursos Naturales",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -2830,7 +2830,7 @@
     {
       "codigo":"203",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Máquinas Hidráulicas y Térmicas",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -2844,7 +2844,7 @@
     {
       "codigo":"204",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Matemática",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -2858,7 +2858,7 @@
     {
       "codigo":"205",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Matemática II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -2872,7 +2872,7 @@
     {
       "codigo":"206",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Matemática Financ. e Invest. Operativa",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -2886,7 +2886,7 @@
     {
       "codigo":"207",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Materiales y Componentes",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -2900,7 +2900,7 @@
     {
       "codigo":"208",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Macánica Analítica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -2914,7 +2914,7 @@
     {
       "codigo":"209",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Mecánica Clásica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -2928,7 +2928,7 @@
     {
       "codigo":"210",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Mecánica Cuántica I",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -2942,7 +2942,7 @@
     {
       "codigo":"211",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Mecánica Cuántica II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2956,7 +2956,7 @@
     {
       "codigo":"212",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Mecánica Técnica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -2970,7 +2970,7 @@
     {
       "codigo":"213",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Mecánica y Termodinámica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -2984,7 +2984,7 @@
     {
       "codigo":"214",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Mecánica, Calor y Termodinámica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -2998,7 +2998,7 @@
     {
       "codigo":"215",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Mecánica, Óptica y Sonido",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -3012,7 +3012,7 @@
     {
       "codigo":"216",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Mediciones Electrónicas",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3026,7 +3026,7 @@
     {
       "codigo":"217",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Mediciones Especiales",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -3040,7 +3040,7 @@
     {
       "codigo":"218",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Medidas Eléctricas",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -3054,7 +3054,7 @@
     {
       "codigo":"219",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Medio Interno y Nefrología",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3068,7 +3068,7 @@
     {
       "codigo":"220",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Medio Interno y Nefrología",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3082,7 +3082,7 @@
     {
       "codigo":"221",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Mensura",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3096,7 +3096,7 @@
     {
       "codigo":"222",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Método Estadístico Multivariado",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -3110,7 +3110,7 @@
     {
       "codigo":"223",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Métodos Computacionales",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3124,7 +3124,7 @@
     {
       "codigo":"224",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Métodos de Conservación de Alimentos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3138,7 +3138,7 @@
     {
       "codigo":"225",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Métodos Numéricos",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"11-May",
@@ -3152,7 +3152,7 @@
     {
       "codigo":"226",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Micología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -3166,7 +3166,7 @@
     {
       "codigo":"227",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Microbiología",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"13-May",
@@ -3180,7 +3180,7 @@
     {
       "codigo":"228",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Microbiología General",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3194,7 +3194,7 @@
     {
       "codigo":"229",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Microgeodesia",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -3208,7 +3208,7 @@
     {
       "codigo":"230",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Micropaleontología",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"13-May",
@@ -3222,7 +3222,7 @@
     {
       "codigo":"231",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Mircobiología Aplicada y Ambiental",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -3236,7 +3236,7 @@
     {
       "codigo":"232",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Modelos y Simulación - Opt. I (Plan 2009)",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3250,7 +3250,7 @@
     {
       "codigo":"233",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Modelos y Simulación - Opt. II (Plan 1999)",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3264,7 +3264,7 @@
     {
       "codigo":"234",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Modelos y Simulación de Sist. Fisiológic.",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3278,7 +3278,7 @@
     {
       "codigo":"235",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Morfología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -3292,7 +3292,7 @@
     {
       "codigo":"236",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Morfología Vegetal",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -3306,7 +3306,7 @@
     {
       "codigo":"237",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Operaciones Unitarias",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -3320,7 +3320,7 @@
     {
       "codigo":"238",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Op I-Inteligencia Artificial",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3334,7 +3334,7 @@
     {
       "codigo":"239",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Op IV-Inteligencia Artificial (Plan 1999)",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3348,7 +3348,7 @@
     {
       "codigo":"240",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Óptica y Sonido",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -3362,7 +3362,7 @@
     {
       "codigo":"241",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Ordenamiento Territorial",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"15-May",
@@ -3376,7 +3376,7 @@
     {
       "codigo":"242",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Ornitología",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -3390,7 +3390,7 @@
     {
       "codigo":"243",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Paleobiogeografía",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -3404,7 +3404,7 @@
     {
       "codigo":"244",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Paleobotánica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"19-May",
@@ -3418,7 +3418,7 @@
     {
       "codigo":"245",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Paleoinvertebrados",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -3432,7 +3432,7 @@
     {
       "codigo":"246",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Paleontología",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"16-May",
@@ -3446,7 +3446,7 @@
     {
       "codigo":"247",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Paleovertebrados",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3460,7 +3460,7 @@
     {
       "codigo":"248",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Palinología",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"19-May",
@@ -3474,7 +3474,7 @@
     {
       "codigo":"249",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Paradigmas Y Lenguajes",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"19-May",
@@ -3488,7 +3488,7 @@
     {
       "codigo":"250",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Parasitología Humana",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -3502,7 +3502,7 @@
     {
       "codigo":"251",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Pedagogía",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -3516,7 +3516,7 @@
     {
       "codigo":"252",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Posicionamiento Satelitario",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3530,7 +3530,7 @@
     {
       "codigo":"253",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Practica Hospitalaria (Plan 2001)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3544,7 +3544,7 @@
     {
       "codigo":"254",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Probabilidad y Estadísticas",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"04-May",
@@ -3558,7 +3558,7 @@
     {
       "codigo":"255",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Problemática Filosófica Contemporánea",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3572,7 +3572,7 @@
     {
       "codigo":"256",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Procesamiento Digital de Bioseñales",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3586,7 +3586,7 @@
     {
       "codigo":"257",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Proceso Analítico Total",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -3600,7 +3600,7 @@
     {
       "codigo":"258",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Procesos Industriales",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"S/I",
@@ -3614,7 +3614,7 @@
     {
       "codigo":"259",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Programación",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"19-May",
@@ -3628,7 +3628,7 @@
     {
       "codigo":"260",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Programación II",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3642,7 +3642,7 @@
     {
       "codigo":"261",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Programación III",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3656,7 +3656,7 @@
     {
       "codigo":"262",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Programación IV",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3670,7 +3670,7 @@
     {
       "codigo":"263",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Programación Orientada a Objetos",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3684,7 +3684,7 @@
     {
       "codigo":"264",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Propagación y Antenas",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3698,7 +3698,7 @@
     {
       "codigo":"265",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Protecc. de Datos Seg. de Com. y Criptog.",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3712,7 +3712,7 @@
     {
       "codigo":"266",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"21/03/17 23:59",
+      "fin_inscripcion":"21/03/17 12:00",
       "nombre": "Protozoología",
       "tercera_mesa":"25-Mar",
       "cuarta_mesa":"13-May",
@@ -3726,7 +3726,7 @@
     {
       "codigo":"267",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Proyecto Final de Carrera",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3740,7 +3740,7 @@
     {
       "codigo":"268",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Proyecto Final(Ing. Eléctrica)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3754,7 +3754,7 @@
     {
       "codigo":"269",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Proyecto Final(Ing. en Electrónica)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3768,7 +3768,7 @@
     {
       "codigo":"270",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Prueba de Idioma",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3782,7 +3782,7 @@
     {
       "codigo":"271",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Prueba de Traducción de Inglés",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -3796,7 +3796,7 @@
     {
       "codigo":"272",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Prueba de Traducción Técnica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -3810,7 +3810,7 @@
     {
       "codigo":"273",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Psic. del Aprendizaje y del Desarrollo",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -3824,7 +3824,7 @@
     {
       "codigo":"274",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Prueba de Manejo de Software",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -3838,7 +3838,7 @@
     {
       "codigo":"275",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Analítica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3852,7 +3852,7 @@
     {
       "codigo":"276",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Analítica I",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3866,7 +3866,7 @@
     {
       "codigo":"277",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Analítica II",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3880,7 +3880,7 @@
     {
       "codigo":"278",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Analítica III",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3894,7 +3894,7 @@
     {
       "codigo":"279",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Analítica Aplicada a las Formulaciones Farmacéuticas",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -3908,7 +3908,7 @@
     {
       "codigo":"280",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Analítica Instrumental",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3922,7 +3922,7 @@
     {
       "codigo":"281",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Biológica (Lic en Cs. Biológicas)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3936,7 +3936,7 @@
     {
       "codigo":"282",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Biológica (Lic en Cs. Químicas)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3950,7 +3950,7 @@
     {
       "codigo":"283",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Biológica I (Bioquímica)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3964,7 +3964,7 @@
     {
       "codigo":"284",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Biológica I (Prof. y Lic en Cs. Químicas)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -3978,7 +3978,7 @@
     {
       "codigo":"285",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Biológica II",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -3992,7 +3992,7 @@
     {
       "codigo":"286",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Química Biológica Patológica",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -4006,7 +4006,7 @@
     {
       "codigo":"287",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Bioorgánica(Lic. en Cs Química)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4020,7 +4020,7 @@
     {
       "codigo":"288",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Química Clínica",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4034,7 +4034,7 @@
     {
       "codigo":"289",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Física Avanzada",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -4048,7 +4048,7 @@
     {
       "codigo":"290",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Física Biológica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -4062,7 +4062,7 @@
     {
       "codigo":"291",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Física I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -4076,7 +4076,7 @@
     {
       "codigo":"292",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Física II",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -4090,7 +4090,7 @@
     {
       "codigo":"293",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Física III",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4104,7 +4104,7 @@
     {
       "codigo":"294",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Química Forense",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4118,7 +4118,7 @@
     {
       "codigo":"295",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química General (para Biólogos)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4132,7 +4132,7 @@
     {
       "codigo":"296",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química General (para físicos químicos e ing)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4146,7 +4146,7 @@
     {
       "codigo":"297",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química General y Biológica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4160,7 +4160,7 @@
     {
       "codigo":"298",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Inorgánica",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -4174,7 +4174,7 @@
     {
       "codigo":"299",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Química Orgánica I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4188,7 +4188,7 @@
     {
       "codigo":"300",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Química Orgánica II",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -4202,7 +4202,7 @@
     {
       "codigo":"301",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Química Toxicología y Legal (Lic Cs Quimicas)",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -4216,7 +4216,7 @@
     {
       "codigo":"302",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Redes de Altas Prestaciones",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"19-May",
@@ -4230,7 +4230,7 @@
     {
       "codigo":"303",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Redes de Datos",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4244,7 +4244,7 @@
     {
       "codigo":"304",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Sedimentología",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4258,7 +4258,7 @@
     {
       "codigo":"305",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario de Ing. Eléctrica(Mod. I)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4272,7 +4272,7 @@
     {
       "codigo":"306",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario de Ing. Eléctrica(Mod. II)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4286,7 +4286,7 @@
     {
       "codigo":"307",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Seminario de Ing. Eléctrica(Mod. III)",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -4300,7 +4300,7 @@
     {
       "codigo":"308",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Seminario de Ing. Eléctrica(Mod. IV)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4314,7 +4314,7 @@
     {
       "codigo":"309",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario de Ing. Eléctrica(Mod. V)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4328,7 +4328,7 @@
     {
       "codigo":"310",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario de Ing. en Electrónica(Mod. I)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4342,7 +4342,7 @@
     {
       "codigo":"311",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario de Ing. en Electrónica(Mod. II)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4356,7 +4356,7 @@
     {
       "codigo":"312",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Seminario de Ing. en Electrónica(Mod. III)",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -4370,7 +4370,7 @@
     {
       "codigo":"313",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Seminario de Ing. en Electrónica(Mod. IV)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4384,7 +4384,7 @@
     {
       "codigo":"314",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario de Ing. en Electrónica(Mod. V)",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4398,7 +4398,7 @@
     {
       "codigo":"315",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Seminario sobre Institución Educativa",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -4412,7 +4412,7 @@
     {
       "codigo":"316",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Seminario sobre temas de Física",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4426,7 +4426,7 @@
     {
       "codigo":"317",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Señales y Sistemas",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4440,7 +4440,7 @@
     {
       "codigo":"318",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Sist. de Inf. Territorial y Catastro",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4454,7 +4454,7 @@
     {
       "codigo":"319",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Sist. de Representación",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"22-May",
@@ -4468,7 +4468,7 @@
     {
       "codigo":"320",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Sistema de Información Territorial",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4482,7 +4482,7 @@
     {
       "codigo":"321",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Sistemas Adminitrativos II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4496,7 +4496,7 @@
     {
       "codigo":"322",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Sistemas de Comunicación",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4510,7 +4510,7 @@
     {
       "codigo":"323",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Sistemas de Potencia",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4524,7 +4524,7 @@
     {
       "codigo":"324",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Sistemas Operativo (Plan anterior)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4538,7 +4538,7 @@
     {
       "codigo":"325",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Sistemas Operativos (Plan Nuevo)",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4552,7 +4552,7 @@
     {
       "codigo":"326",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Sistemas y Organizaciones",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -4566,7 +4566,7 @@
     {
       "codigo":"327",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Taller de Programación I",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4580,7 +4580,7 @@
     {
       "codigo":"328",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Taller de Programación II",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4594,7 +4594,7 @@
     {
       "codigo":"329",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Taller de Tecnología Educativa",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -4608,7 +4608,7 @@
     {
       "codigo":"330",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Taller de Tecnología Educativa",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4622,7 +4622,7 @@
     {
       "codigo":"331",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Tasaciones",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"10-May",
@@ -4636,7 +4636,7 @@
     {
       "codigo":"332",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Técnicas Nucleares",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4650,7 +4650,7 @@
     {
       "codigo":"333",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Teleprocesos y Sistemas Distribuidos",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"05-May",
@@ -4664,7 +4664,7 @@
     {
       "codigo":"334",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Teoría Cualitativa de Ecuaciones Diferenciales Ordinarias",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4678,7 +4678,7 @@
     {
       "codigo":"335",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Teoría de la Computación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4692,7 +4692,7 @@
     {
       "codigo":"336",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Teoría de los Circuitos",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4706,7 +4706,7 @@
     {
       "codigo":"337",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Teoría de Control",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4720,7 +4720,7 @@
     {
       "codigo":"338",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Teoría de Errores y Compensación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4734,7 +4734,7 @@
     {
       "codigo":"339",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Termodinámica",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4748,7 +4748,7 @@
     {
       "codigo":"340",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Termodinámica Estadísticas",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4762,7 +4762,7 @@
     {
       "codigo":"341",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Tópicos Avanzados de Ing. de Software",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4776,7 +4776,7 @@
     {
       "codigo":"342",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Topografía I",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4790,7 +4790,7 @@
     {
       "codigo":"343",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Topografía II",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4804,7 +4804,7 @@
     {
       "codigo":"344",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Topografía IV",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4818,7 +4818,7 @@
     {
       "codigo":"345",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Topografía General",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4832,7 +4832,7 @@
     {
       "codigo":"346",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Toxicología y Química General",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"23-May",
@@ -4846,7 +4846,7 @@
     {
       "codigo":"347",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Trabajo Final de Aplicación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4860,7 +4860,7 @@
     {
       "codigo":"348",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Trabajo Final de Graduación",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4874,7 +4874,7 @@
     {
       "codigo":"349",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Transmisión de la Energía",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"26-May",
@@ -4888,7 +4888,7 @@
     {
       "codigo":"350",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Transmisión de la Información",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"26-May",
@@ -4902,7 +4902,7 @@
     {
       "codigo":"351",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"16/03/17 23:59",
+      "fin_inscripcion":"16/03/17 12:00",
       "nombre": "Trigonometría",
       "tercera_mesa":"21-Mar",
       "cuarta_mesa":"02-May",
@@ -4916,7 +4916,7 @@
     {
       "codigo":"352",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Urgencias Hospitalarias",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",
@@ -4930,7 +4930,7 @@
     {
       "codigo":"353",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"17/03/17 23:59",
+      "fin_inscripcion":"17/03/17 12:00",
       "nombre": "Valuaciones Inmobiliarias",
       "tercera_mesa":"22-Mar",
       "cuarta_mesa":"24-May",
@@ -4944,7 +4944,7 @@
     {
       "codigo":"354",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"20/03/17 23:59",
+      "fin_inscripcion":"20/03/17 12:00",
       "nombre": "Virología Clínica",
       "tercera_mesa":"23-Mar",
       "cuarta_mesa":"18-May",
@@ -4958,7 +4958,7 @@
     {
       "codigo":"355",
       "inicio_inscripcion":"10/03/17 00:00",
-      "fin_inscripcion":"15/03/17 23:59",
+      "fin_inscripcion":"15/03/17 12:00",
       "nombre": "Zoología Agrícola",
       "tercera_mesa":"20-Mar",
       "cuarta_mesa":"08-May",

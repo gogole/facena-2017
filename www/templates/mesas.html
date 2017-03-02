@@ -28,11 +28,7 @@
             <i class="icon ion-link"></i>
               S. Interés
           </a>
-          <a class="tab-item" href="correlativas.html">
-            <i class="icon ion-network"></i>
-              Correlativas
-          </a>
-      </div>
+            </div>
       <ion-content class="padding " ng-controller="MesasCtrl">
         <div class="list">
           <div class="item item-divider item-input-inset">
@@ -52,11 +48,15 @@
           <ion-item class="item-accordion"
                     ng-show="isGroupShown(item)">
 
-            <h3>Próxima Mesa: {{item.tercera_mesa}}</h3>
-            <p>Inicio de Inscripción: {{item.inicio_inscripcion}} // Fin de Inscripción: {{item.fin_inscripcion}}</p><hr>
+            <h3>Próxima Mesa:</h3>
+            <p>{{item.tercera_mesa}}zo</p>
+            <h3>Inicio de Inscripción: </h3>
+            <p>{{item.inicio_inscripcion}}</p>
+            <h3>Fin de Inscripción:</h3>
+            <p> {{item.fin_inscripcion}}</p><hr>
             <h3>Mesas Restantes:</h3>
-            <p>{{item.cuarta_mesa}}--{{item.quinta_mesa}}--{{item.sexta_mesa}}</p> <hr>
-            <p>{{item.septima_mesa}}--{{item.octava_mesa}}--{{item.novena_mesa}}</p> <hr>
+            <p>{{item.cuarta_mesa}}--{{item.quinta_mesa}}--{{item.sexta_mesa}}</p>
+            <p>{{item.septima_mesa}}--{{item.octava_mesa}}--{{item.novena_mesa}}</p>
             <p>{{item.decima_mesa}}</p>
           </ion-item>
         </div>
